@@ -207,10 +207,17 @@ img { border: 0; }
 
 p.meta {
          font-size: 75%;
-         text-align: right;
-         margin-right: 5px;
          background: #bbb;
          }
+
+span.comment_link {
+                 position: relative;
+                 float: left;
+                 }
+span.metadata {
+             position: relative;
+             float: right;
+}
 
 p.auth {
          padding: 0 0 0 12px;

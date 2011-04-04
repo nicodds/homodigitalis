@@ -14,7 +14,11 @@ title: Homo Digitalis
     </p> 
     {{ page.content }}
     
-    <p class="meta">Pubblicato in: {{page.tags | to_tag_string }}</p>
+    <p class="meta">
+      <span class="comment_link"><a href="{{ page.url }}#comments" title="Inserisci un commento">Commenta &raquo;&raquo;</a></span>
+    &nbsp;
+      <span class="metadata">Pubblicato in: {{page.tags | to_tag_string }}</span>
+    </p>
   </div>
 <!-- End post: {{page.title}} --> 
 {% endfor %}
