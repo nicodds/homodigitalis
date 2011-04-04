@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Saggezza Jedi
+tags: 
+- jedi
+- star
+- wars
+
+---
+<pre style="font-family: serif; font-style: italic;">‚Always remember, your focus determines your reality.‚ù                     - Qui-Gon to Anakin, Star Wars Episode I</pre>

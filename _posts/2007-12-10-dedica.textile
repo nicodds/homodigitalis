@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Dedica
+tags: 
+
+---
+Dedicato ad una persona speciale che passerà di qui.

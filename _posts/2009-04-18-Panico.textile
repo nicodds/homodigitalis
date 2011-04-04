@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Panico!
+tags: 
+- panico
+- domenicain
+- silvan
+- baustelle
+---
+p. Non servono parole, non servono commenti.
+
+p. Mi viene solo da ricordare una battuta del film "Compagni di scuola" di Carlo Verdone, che suonava pressapoco: "Guarda cosa eri. Guarda cosa sei diventato!".
+
+p. <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/b79lEyKAPUM&hl=it&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/b79lEyKAPUM&hl=it&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+p. Dai, dopo questa visione, meglio chiudere con qualcosa di bello: Panico! dei Baustelle.
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZnBL7s9-4pw&hl=it&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZnBL7s9-4pw&hl=it&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

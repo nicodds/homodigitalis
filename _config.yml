@@ -1,0 +1,8 @@
+title: "Homo Digitalis"
+paginate: 10
+exclude:
+  - Rakefile
+ftp_username: nico
+ftp_host: ftp.delleside.org
+ftp_dir: www/homodigitalis.delleside.org/
+db_file: ".files.yml"

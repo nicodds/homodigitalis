@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+<!-- start post -->
+<div id="main">
+  <div class="post">
+    <h2>{{ page.title }}</h2>
+    
+    <p class="auth"> Domenico Delle Side,
+      <span class="date" title="{{ page.date | to_it_date }}">{{ page.date | to_it_date }}</span>
+    </p> 
+    
+     {{ content }}
+
+    <p class="meta">Pubblicato in: {{page.tags | to_tag_string }}</p>
+    
+    {% include comments.html %}
+  </div>
+</div>
+<!-- end post -->

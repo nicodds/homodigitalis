@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Apocalypse now
+tags: 
+- apocalypse
+- ipocrisia
+
+---
+<cite>Addestriamo dei ragazzi a sganciare Napalm sulla gente, ma i loro comandanti non vogliono che scrivano "cazzo" sugli aerei perché è una parola oscena. (Col. Kurtz)</cite>

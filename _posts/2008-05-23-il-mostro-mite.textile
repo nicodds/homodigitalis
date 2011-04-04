@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Il Mostro Mite
+tags: 
+- destra
+- mostro
+
+---
+<div style="font-style: italic;"><p>...</p>
+
+
+<p>Occorre allora rivedere la lista delle proprietà della destra cercando di andare più alla radice e senza paura di semplificare. Propongo una serie di postulati che mi paiono pertinenti. Siccome la politica si occupa di interessi (e anche, bisogna ammetterlo, di tipi psicologici), e gli interessi si possono formulare in modo sia &laquo;colto&raquo; sia popolare, così farò con i miei postulati. Li presenterò qui sotto in due versioni, la prima con i termini della dottrina politica, la seconda (tra parentesi) in linguaggio colloquiale:</p>
+
+
+# postulato di superiorità (&laquo;io sono il primo, tu non sei nessuno&raquo;);# postulato di proprietà (&laquo;questo è mio e nessuno me lo tocca&raquo;);# postulato di libertà (&laquo;io faccio quel che voglio e come voglio&raquo;);# postulato di non-intrusione dell'altro (&laquo;non ti immischiare negli affari miei&raquo;);# postulato di superiorità del privato sul pubblico (&laquo;delle cose di tutti faccio quel che voglio&raquo;).
+
+
+<p>...</p></div>
+
+
+<p style="text-align: right;">Da &quot;<span style="font-style: italic;">Il Mostro Mite</span>&quot;, Raffaele Simone - Garzanti.</p>

@@ -1,0 +1,42 @@
+--- 
+layout: post
+title: Tagliare equamente la torta della democrazia
+tags: 
+- costituzione
+- torta
+- matematica
+
+---
+p. Potrà sembrare assurdo, ma per anni fior di matematici hanno studiato il modo in cui è possibile "tagliare in maniera equa una torta":http://www.polesine.com/pagine/scienze/mfn/a010.htm.
+
+p. Si è cominciato studiando il problema del dividersi una torta in due, che ha una soluzione banale: uno divide e l'altro sceglie la fetta. Entrambi saranno soddisfatti.
+
+p. Il caso dei tre golosi è senz'altro più interessante, perché richiede una logica più raffinata. Questo problema è stato risolto negli anni 40 da "Hugo Steinhaus":http://it.wikipedia.org/wiki/Hugo_Steinhaus e siamo così in grado di dividere una torta tra tre persone in maniera tale che ognuno di loro sia allo stesso tempo responsabile della propia scelta e soddisfatto (dal punto di vista logico) della stessa.
+
+p. Citando l'articolo de "Le Scienze":http://www.lescienze.it di cui si è già dato il link, cerchiamo di capire di cosa si tratti e supponiamo che Paolo, Dino e Giulio vogliano dividersi equamente una torta.
+
+p. Come primo passo, Paolo taglia la torta in due fette e chiamiamole _A_ e <i>B</i>, con <i>A</i> che è a suo giudizio pari a <i>1/3</i> e <i>B</i> a <i>2/3</i>.
+
+p. Successivamente, Paolo consegna la fetta <i>A</i> a Dino e gli chiede di tagliarne una fettina se ritiene che sia più di <i>1/3</i> o, in caso contrario, di lasciarla com'è. Chiamiamo <i>A'</i> la fetta risultante, che sarà pari ad <i>A</i> o più piccola.
+
+p. In ultimo, Dino passa <i>A'</i> a Giulio, che può scegliere se prenderla o no.
+
+p. Cosa può accadere a questo punto? Elenchiamo le possibilità:
+
+# Se Giulio accetta <i>A'</i>, allora Paolo e Dino mettono insieme quello che rimane - <i>B</i> più gli eventuali ritagli di <i>A</i> - e lo considerano un'unica torta, che dividono con il metodo «Io taglio, tu scegli».
+# Se Giulio non accetta <i>A'</i>, e Dino ha tagliato una fettina di <i>A</i>, allora Dino prende <i>A'</i> (è lui che ha realizzato la fetta <i>A'</i> in maniera tale che a suo giudizio fosse <i>1/3</i> del totale), mentre Paolo e Giulio fanno a «Io taglio, tu scegli» con il resto.
+# Se Giulio non accetta <i>A'</i>, e Dino non ha tagliato una fettina di <i>A</i>, Paolo prende <i>A</i> (è lui che ha tagliato inizialmente quella fetta, quindi per lui è <i>1/3</i> del totale), mentre Dino e Giulio fanno a «Io taglio, tu scegli» con il resto.
+
+p. Sembrerebbe che questo divertente gioco di logica ci insegni solo come tagliare una torta, ma spesso i matematici fanno scoperte che hanno applicazioni anche nei campi che sono più estranei alla loro disciplina. L'algoritmo visto, infatti, ci mostra come  3 persone, esercitando in maniera autonoma un loro diritto (tagliare la torta per averne un pezzo) e controllandosi a vicenda (ognuno sceglie e valuta se il taglio altrui è circa <i>1/3</i>), possono uscire soddisfatti da un problema non banale.
+
+p. Dal mio punto di vista, la situazione vista è molto simile a quanto accade nella "separazione dei poteri dello stato":http://it.wikipedia.org/wiki/Separazione_dei_poteri. Potere legislativo, esecutivo e giudiziario esercitano i loro diritti/doveri e, nella loro autonomia, si controllano a vicenda, garantendo che (almeno in teoria) non ci siano sopprusi e che il forte sia uguale al debole.
+
+p. In Italia, la Costituzione assicura la separazione dei poteri e ne sancisce l'autonomia; in questo modo, se pensiamo alla democrazia come ad una torta, ognuno dei tre poteri ha la possibilità di avere la sua fetta ed ognuno può ritenersi soddisfatto della propria scelta, ottenendo come risultato un equilibrio perfetto tra i poteri, che rappresenta una garanzia per il cittadino: nessun potere (almeno in teoria) può asservire un altro. Se il governo fa una legge, ad esempio, il parlamento può decidere di non approvarla.
+
+p. Il principio di separazione dei poteri, dunque, è coerente dal punto di vista logico ed anche altamente democratico. Sarebbe auspicabile che venisse applicato da tutte le costituzioni, ma non è così. In Francia, ad esempio, il potere giudiziario dipende da quello esecutivo e questa, almeno in principio, non è una gran cosa (anche i giudici francesi "_tengono famiglia_").
+
+p. Siccome sono un ingenuo, mi capita di chiedermi perché, se questo principio è logico e democratico, in Italia vada cambiato. Assistiamo spesso ad un parlamento esautorato dalle proprie funzioni, governi che vanno avanti a colpi di decreti e voti di fiducia; vediamo gli stessi governi  progettare di mettere sotto il loro controllo la magistratura e mettere in atto (con procedure d'urgenza) leggi che ne compromettono l'operatività.
+
+p. E' come se, nell'esempio dei 3 golosi, Paolo smettesse all'improvviso di essere "cortese" e decidesse di ottenere con ogni mezzo una fetta più grossa di torta. In questo modo, il sistema di sicuro non sarebbe più equo, poiché Paolo riuscirebbe ad ottenere una fetta più grande rispetto a quelle di Dino e Giulio, magari minacciandoli di far loro del male.
+
+p. Ecco, la politica sta facendo proprio questo, sta abbandonando un principio democratico per prendersi una fetta di torta più grande, solo che in questo caso, sta rubando il dolce a noi tutti.

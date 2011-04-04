@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "L'importante \xC3\xA8 dire qualcosa"
+tags: 
+- alitalia
+- cai
+- tremonti
+
+---
+p. Tremonti è malato di cazzutismo. In ogni sua esternazione deve mostrarsi superiore agli altri, deve dare giudizi netti e aspramente critici ed in questo è maestro. Nemmeno Sgarbi riesce a superarlo: nei suoi classici completini grigi è in grado di vomitare il proprio veleno addosso del malcapitato in maniera estremamente composta, arrivando perfino ad affermare le cose più assurde, come ad esempio si narra in "questo articolo":http://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/cai-alitalia-tremonti.shtml: "_Dall'operazione Cai-Alitalia non sono derivati costi aggiuntivi per lo Stato rispetto alla prima offerta di Air France. Lo ha sottolineato il ministro delle Economia Giulio Tremonti rispondendo a una domanda di Fabio Fazio durante la trasmissione «Che tempo che fa». «Per come era stata fatta l'offerta sarebbe costato uguale. Stiamo parlando di un'invenzione», ha comunque precisato Tremonti, ricordando che «Air France ha fatto un'offerta e poi è stata ritirata»_".

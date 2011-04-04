@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Il fascino del mare
+tags: 
+- piedi
+- mare
+- castro
+- salento
+
+---
+<p>Una giornata a Castro (LE), il posto dove adoro fare il bagno.</p>
+
+
+<div><a href="/files/nico-piedi.jpg" title="Foto dei piedi di Nico a mollo nel mare salentino"><img src="/files/piedi-nico.jpg" alt="Foto dei piedi di Nico a mollo nel mare salentino" style="clear: bottom;" /></a> </div>
+
+
+
+
+
+p. &nbsp;

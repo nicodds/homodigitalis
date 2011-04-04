@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Comunista! Comunista?
+tags: 
+- volo
+- comunista
+
+---
+p. &laquo;<span style="font-style: italic;">ci hai 31 anni... tu non puoi farti dire dagli altri cosa devi dire... bisogna che le pensi le cose che dici...</span>&raquo;.
+
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/3Sr_-KNKe_g&hl=it&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3Sr_-KNKe_g&hl=it&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

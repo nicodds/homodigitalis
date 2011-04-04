@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: "La ciclopedonalit\xC3\xA0 della citt\xC3\xA0 di Lecce"
+tags: 
+- lecce
+- legambiente
+- bicicletta
+- a-bici
+---
+
+!http://homodigitalis.delleside.org/files/piste_lecce.jpg! Non passa giorno in cui non abbia a che fare con due cose: dati e bicicletta; così, quando ho sentito del sedicesimo posto della città di Lecce nella classifica presentata dal rapporto di Legambiente “L’a-bici” sono rimasto perplesso e per due motivi. Il primo è che da “datologo” mi sono subito chiesto la metodologia con cui sia stata stilata tale classifica; il secondo riguarda il fatto che, da ciclista urbano, constato quotidianamente sulla mia pelle le difficoltà del muoversi in bici a Lecce.
+ 
+Fermo restando che amo Lecce all’inverosimile, non sono affatto d’accordo con chi gioisce per questa classifica e le mie motivazioni si possono facilmente comprendere frequentando le rotatorie del Bar Commercio o della Questura intorno alle 13 di un giorno infrasettimanale: c’è poco di cui esser contenti ad abbandonare i ciclisti in bolge infernali di quel tipo.
+ 
+Probabilmente, chi gioisce sa che i ciclisti leccesi sono pochi e quindi saranno conseguentemente in pochi ad accorgersi della realtà dei fatti; quindi, più che esser contento per aver reso un importante ed utile servizio a tanti suoi concittadini, lo è per aver ottenuto un’occasione di visibilità sui media.
+ 
+Ma torniamo alle perplessità iniziali. Incuriosito dalla ricerca, ho provato a capire come è stata ottenuta la classifica in questione, ma purtroppo non sono riuscito a trovare alcuna nota metodologica. Nel documento di Legambiente (http://www.legambiente.it/dettaglio.php?contenuti_id=1651&tipologia_id=5) si spiega che la stessa “<i>ha cercato di valutare l’offerta ciclabile di una città considerando i chilometri di piste ciclabili in sede propria, i chilometri di piste ciclabili in corsia riservata, i percorsi misti pedonali e ciclabili, le zone con moderazione di velocità a 30 km/h, che, opportunamente pesati, hanno concorso a formare l’indice di “metri equivalenti” di  percorsi ciclabili ogni 100 abitanti</i>”. E continua scrivendo che “<i>è opportuno fare una precisazione: i dati disponibili sono solamente in grado di misurare l’estensione dei percorsi ciclabili e non il grado di sicurezza, la funzionalità e la distribuzione all'interno della città</i>”.
+ 
+Tiriamo le prime somme: Legambiente ha raccolto dati sulla LUNGHEZZA delle piste ciclabili presenti nei capoluoghi di provincia e sulla presenza di zone con moderazione di velocità a 30 Km/h e di calmierazione del traffico; successivamente ha elaborato questi dati per ottenere un’indice. I dati disponibili, tuttavia, non misurano la “qualità” dei percorsi ciclabili.
+ 
+Altra notizia interessante che si scopre leggendo il rapporto è che i dati sono stati forniti dagli stessi comuni oggetto di indagine.
+ 
+La questione più interessante, però, si evince leggendo le 2 classifiche presenti nel documento, ovvero quella in cui Lecce è sedicesima ed ordina le città analizzate secondo l’indice di ciclopedonalità citato e la seconda, che ordina i capoluoghi secondo l’estensione delle ciclabili urbane, classifica in cui Lecce scivola al venticinquesimo posto.
+ 
+Non conoscendo i dettagli di calcolo dell’indice non posso esserne certo, ma a giudicare dalle due classifiche sembrerebbe che Lecce basi il grosso del suo punteggio sulla presenza di zone a velocità moderata, mezzi di calmierazione del traffico ed anche sulla presenza di piste ciclabili “esterne” all’urbe. Orbene, pedalo per Lecce quotidianamente e di moderazione della velocità o di calmierazione del traffico (eccetto per il centro storico) non ne vedo l’ombra; le uniche ombre che vedo sono quelle di piste ciclabili (in stato di abbandono) che la collegano con San Cataldo. Per carità, cosa lodevole, ma che non contribuisce in alcun modo a migliorare  la “ciclabilità” della città.
+ 
+I dubbi, inoltre, aumentano se si pensa che i dati sono stati comunicati dagli stessi comuni interessati e, visto che Legambiente per prima afferma di non averne potuto saggiare la qualità, verrebbe da chiedersi se tutte le piste ciclabili segnalate abbiano o meno una <i>funzionalità</i> reale o solo sulla carta, dato che dalle notizie presenti sullo sito del comune (http://www.comune.lecce.it/comunelecce/Settori/Lavori+pubblici/Cantieri+Aperti/PISTE+CICLABILI.htm) si evince che non tutti i lotti del progetto sono ancora completati.
+ 
+Probabilmente chiederò troppo, ma preferirei una Lecce in cui il traffico fosse più umano, in cui percorrere una rotatoria non sia una roulette russa o ancora una città in cui l’aria sia più respirabile, ma a questo punto occorre rovesciare il punto di vista e rendersi conto che il problema non sono le bici, da dotare di percorsi privilegiati, ma le macchine insieme con il loro abuso, vere e proprie metastasi che uccidono la qualità della vita della città.
+ 
+Fare a meno delle auto è impensabile, ma pensare di utilizzarle con più raziocinio è fattibile, per questo Lecce avrebbe bisogno di un piano del traffico che sani le miriadi di problemi disseminati nelle strade della città, non di piste ciclabili che allo stato attuale diverrebbero immancabilmente delle cattedrali nel deserto.
+ 
+L’invito agli amministratori leccesi è quello di leggere nel dettaglio le prime pagine dell’interessante rapporto di Legambiente, dimenticando per un attimo la presenza della classifica: troveranno numerose idee su come fare del bene a Lecce.
+
+p. <span style="font-size: 75%; font-style: italic">L'immagine iniziale è tratta dal "sito del comune di Lecce":http://www.comune.lecce.it/comunelecce/Settori/Lavori+pubblici/Cantieri+Aperti/PISTE+CICLABILI.htm .</span>

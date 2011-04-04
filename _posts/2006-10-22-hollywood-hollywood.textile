@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Hollywood, Hollywood!
+tags: 
+- Bukowski
+
+---
+<blockquote style="font-style: italic;">...
+
+
+Caddi in uno dei miei patetici periodi di chiusura. Spesso con gli esseri umani, buoni e cattivi, i miei sensi si stancano: lascio perdere. Sono educato. Faccio segno di si. Fingo di capire, perché non voglio ferire nessuno. Questa è la debolezza che mi ha procurato più guai. Cercando di essere gentile con gli altri spesso mi ritrovo con l'anima a fettucce, ridotta a una specie di piatto di tagliatelle spirituali. Non importa. Il mio cervello si chiude. Ascolto. Rispondo. E sono troppo ottusi per rendersi conto che io non ci sono.
+
+
+...</blockquote>
+
+
+<p style="font-style: italic; text-align: right; padding-right: 4em;">Charles Bukowski</p>

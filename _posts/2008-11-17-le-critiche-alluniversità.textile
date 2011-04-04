@@ -1,0 +1,119 @@
+--- 
+layout: post
+title: "Le critiche all'universit\xC3\xA0"
+tags: 
+- "universit\xC3\xA0"
+- arwu
+- baronismo
+- sprechi
+
+---
+p. Ottobre e Novembre sono stati mesi densi di polemiche circa l'istruzione pubblica. Sono state mosse diverse critiche al sistema universitario italiano; alcune di queste sono condivisibili, ma la maggioranza è fortemente fallace: gocce di buon senso in un mare di disinformazione. L'idea di questo post è di analizzare alcune delle critiche e cercare di capire se siano giustificabili o se siano soltanto degli strumenti per cercare di influenzare l'opinione pubblica.
+
+
+p. Le critiche sono essenzialmente inquadrabili in tre gruppi:
+
+
+# l'assenza di università italiane tra le prime 100 posizioni della classifica dei 500 migliori atenei mondiali;# un'offerta formativa non adeguata al mondo del lavoro;# il baronismo e gli sprechi.
+
+
+h3. La classifica delle migliori università
+
+
+p. La classifica ("_Academic Ranking of World Universities_":http://www.arwu.org/, in breve ARWU) viene stilata da un gruppo di ricercatori della "_Graduate School of Education_":http://gse.sjtu.edu.cn/EN/ (in passato "_Institute for Higer Education_":http://ed.sjtu.edu.cn/en/) della "_Shanghai Jiao Tong University_":http://www.sjtu.edu.cn/english/index/index.htm. Nato inizialmente come uno strumento per valutare lo qualità della ricerca e dell'istruzione unversitaria cinese rispetto alle altre realtà di tutto il mondo, nel corso degli anni, grazie alla diffusione attraverso la Rete, tale progetto ha incontrato il favore del grande pubblico, insediandosi come classifica di riferimento per valutare le università di tutto il mondo (<a href="http://www.arwu.org/rank2008/ARWU2008FAQ(EN).htm" title="Arwu FAQ">Qui</a> sono disponibili delle interessanti FAQ).
+
+
+h4. Il calcolo del punteggio
+
+
+p. Il "meccanismo di punteggio":http://www.arwu.org/rank2008/ARWU2008Methodology(EN).htm si basa su sei indicatori fondamentali, che contribuiscono in percentuale differente al risultato finale:
+
+
+* Presenza tra i propri laureati, i propri dottori di ricerca e i frequentatori dei propri master di vincitori di "Premi Nobel":http://it.wikipedia.org/wiki/Premio_Nobel o "Medaglie Fields":http://it.wikipedia.org/wiki/Medaglia_Fields. Il contributo al punteggio è "pesato" in base all'epoca in cui il premio è stato conseguito: tanto più vecchio è il premio, tanto minore è il contributo risultante. Per fare un esempio, consideriamo il caso di "Enrico Fermi":http://it.wikipedia.org/wiki/Enrico_Fermi: laureatosi a Pisa nel 1922, ha conseguito il Nobel per la fisica nel 1938. All'Università di Pisa, pertanto, andrà un certo punteggio, che sarà ridotto del 60%, perché il premio è stato conseguito nel decennio 1931-1940. (Alumni, 10% del finale).
+
+
+* Presenza nel proprio staff di vincitori di Premi Nobel o di Medaglie Fields. Anche in questo caso, il punteggio è pesato in base all'anno di conseguimento. Continuiamo a considerare il nostro Fermi per fare un esempio: ha conseguito il Nobel mentre era professore presso l'Uninversità di Roma, pertanto a tale università andra un punteggio ridotto in questo caso del 70%, perché il premio è stato ottenuto nel decennio 1931-1940. (Awards, 20% del finale).
+
+
+* Presenza nel proprio staff dei ricercatori più citati in 21 diversi settori scientifico-disciplinari, secondo i risultati di "Thomson ISI":http://isiwebofknowledge.com/. In pratica, Thomson ISI è in grado di estrapolare dai propri database quali siano gli autori più citati dagli altri ed in questo modo si può ottenere una classifica degli autori più citati in 21 diversi campi. Gli estensori di ARWU, pertanto, danno dei punti alle università che hanno nel proprio staff tali autori. (\HiCi, 20% del finale).
+
+
+* Numero di articoli pubblicati su "Nature":http://it.wikipedia.org/wiki/Nature e su "Science":http://it.wikipedia.org/wiki/Science in un determinato periodo di tempo. (N&S, 20% del finale).
+
+
+* Numero totale di articoli citati nello "Science Citation Index-Expanded":http://en.wikipedia.org/wiki/Science_Citation_Index e nel "Social Science Citation Index":http://en.wikipedia.org/wiki/Social_Sciences_Citation_Index, pubblicati da membri dello staff di un'università. (PUB, 20% del finale).
+
+
+* Una somma dei punteggi precedenti divisa per il numero di membri dello staff universitario. (PCP, 10% del finale).
+
+
+h4. La situazione italiana
+
+
+p. Come già anticipato dai nostri eminenti politici, l'Italia non ha alcun ateneo tra le prime 100 posizioni della classifica 2008, non ne aveva anche nel 2007, mentre nel 2006 c'era l'Università La Sapienza di Roma (al posto 100). La nostra nazione, comunque sia, è degnamente rappresentata nelle posizioni seguenti con ben 22 università (3 in posizione 101-150, 2 in posizione 151-200, 2 in posizione 201-302, 5 in posizione 303-401 ed altre 10 in posizione 402-503), cosa che fa segnalare un miglioramento rispetto alla medesima classifica del 2007, quando l'Italia aveva 20 rappresentanti.
+
+
+p. Un altro aspetto interessante della classifica è l'analisi che ne fanno gli stessi estensori. Consideriamo, ad esempio, "quella del 2008":http://www.arwu.org/rank2008/ARWU2008analysis(EN).htm, che, tuttavia, fotografa ogni anno una situazione molto simile: _la numerosità di posti occupati e la qualità degli stessi è direttamente proporzionale alla percentuale di PIL che una nazione investe in ricerca ed istruzione universitaria_. La nostra analisi non si ferma qui. Controllando accuratamente il sito di ARWU, si scopre che è possibile reperire delle classifica per area di ricerca, ovvero le prime 100 università mondiali rispettivamente nei settori: 
+
+# "scienze naturali e matematica":http://www.arwu.org/ARWU-FIELD2008/SCI2008.htm, 
+# "ingegneria/tecnologia ed informatica":http://www.arwu.org/ARWU-FIELD2008/ENG2008.htm, 
+# "bioscienze ed agricoltura":http://www.arwu.org/ARWU-FIELD2008/LIFE2008.htm, 
+# "medicina e farmacia":http://www.arwu.org/ARWU-FIELD2008/MED2008.htm, 
+# "scienze sociali":http://www.arwu.org/ARWU-FIELD2008/SOC2008.htm.
+
+
+Nel primo settore, ci sono due nostre rappresentanti (Pisa e Roma-La Sapienza); 3 nel secondo (Politecnico di Torino, Napoli-Federico II e Roma-La Sapienza); 1 nel quarto (Università di Milano). Rimaniamo invece a secco nel terzo e nel quinto settore scientifico-disciplinare.
+
+
+h4. Un po' di riflessioni
+
+
+p. I nostri politici partono subito male, perché fanno capire che ARWU sia la classifica delle migliori 100 università mondiali. &Egrave; delle prime 500!!! Poi continuano peggio, dicendo la prima università italiana si trova al 192° posto. Falso anche questo, poiché la prima università italiana è l'Università di Milano, classificatasi a parimerito con altre nella posizione 101-150 (riga 140 del "file excel della classifica":http://www.arwu.org/rank2008/Top500_EN.xls. All'interno delle posizioni raggruppate, gli atenei sono elencati in ordine alfabetico).
+
+
+p. L'analisi degli stessi estensori mostra chiaramente come la possibilità di accedere ad ingenti finanziamenti consenta di avere una presenza numerosa e qualificata in classifica. Non è un caso, infatti, che ai primi posti di ARWU si trovino le migliori università americane, britanniche, tedesche e giapponesi, ovvero istituti di quelle nazioni che più investono nell'istruzione superiore. Da questo punto di vista, anzi, è encomiabile il risultato delle università italiane che, nonostante la scarsità di fondi, riescono comunque ad avere piazzamenti dignitosi.
+
+
+p. E' da notare un'ulteriore questione. L'Italia è da sempre affetta dal problema della fuga dei cervelli, ovvero quelle persone che, non trovando spazio nel mondo accademico nostrano, si spostano all'estero, riscuotendo spesso un considerevole successo. Ho diversi amici che hanno fatto questa scelta: 2 sono andati in Inghilterra, uno in Germania ed un altro ancora negli Stati Uniti. Accade così che persone intrinsecamente di valore e formate rigorosamente grazie alla serietà complessiva di un determinato corso di laurea vadano ad arricchire il punteggio di università straniere con le loro citazioni (visto che vincere un Premio Nobel o una Medaglia Fields non è cosa di tutti i giorni). Sono convinto che questi miei amici avrebbero fatto bene ovunque avessero studiato, ma sono altrettanto convinto che il posto in cui lo hanno fatto abbia dato loro una formazione di primo livello, cosa di cui purtroppo questa classifica non tiene conto.
+
+
+h3. L'offerta formativa
+
+
+p. Un altro punto di critica sarebbe, stando ai discorsi dei politici, l'offerta formativa che non ha alcuna aderenza con le richieste del mercato del lavoro italiano.
+
+
+p. Sebbene a prima vista questo genere di critiche sembri condivisibile, dopo una più attenta analisi ci si può facilmente rendere conto quanto sia infondato anche questo argomento.
+
+
+p. Il mercato del lavoro italiano, infatti, *non ha* grosse richieste di formazioni specialistiche e di alto livello. Se eccettuiamo poche grandi industrie (del tipo di Eni o Fiat) e qualche piccola concentrazione di anziende specializzate attorno ai grandi poli universitari del nord Italia, la richiesta è di solo lavoro non specializzato e pagato come tale. E' del tutto normale, quindi, che la formazione attuale non sia adeguata alle richieste del mercato del lavoro: quale università potrebbe mai istituire un corso di laurea in una disciplina non specializzata?
+
+
+p. Le ragioni di questa situazioni sono piuttosto semplici: in Italia il settore delle produzioni specializzate è poco sviluppato. Negli ultimi vent'anni è stato privilegiato l'arricchimento facile e veloce: l'importazione a basso consto, con tutto ciò che questo comporta. Nutrite schiere di imprenditori hanno scoperto che, piuttosto che produrre in Italia, è più lucroso importare oggetti (spesso oggetti tecnologici) dalle nazioni in via di sviluppo, comprandoli ad un prezzo e vendendoli a 10 volte tanto. Se prima questi stessi imprenditori, per aumentare i loro guadagni, stimolavano la ricerca e la nascita di nuove tecnologie, ora trovano più conveniente chiudere le loro industrie e trasformarsi in importatori, con costi bassissimi e guadagni alti. Di che specializzazioni possono avere bisogno? I dipendenti ideali sono persone poco specializzate: magazzinieri, manovali e trasportatori.
+
+
+h3. Il baronismo e gli sprechi
+
+
+p. Inutile dire che il fenomeno dei "baroni" esiste concretamente nei nostri atenei ed è auspicabile che venga quanto prima debellato. Il baronismo, tuttavia, è un problema non della sola università, ma dell'Italia intera: le persone che, meritatamente o meno, arrivano al potere, non lo mollano.
+
+
+p. Allo stesso modo, per quanto riguarda gli sprechi siamo di fronte ad un argomento condivisibile ed intrinsecamente giusto ed anche in questo caso abbiamo a che fare con un problema sociale diffuso e non relegato alle 4 mura di un'università.
+
+
+p. Per questo motivo, tentare di rimuovere il baronismo e le spese insensate dalle università è uno spreco (!) di risorse, perché sarebbe una battaglia persa in partenza. Se si tratta di malcostumi della società italiana, come si può pensare di riuscire ad eliminarli di punto in bianco da un sottoinsieme della società stessa? Il baronismo e gli sprechi sono problemi prima di tutto sociali e la politica dei nostri giorni, piaccia o meno, non è in grado di dare risposte a questo genere di questioni.
+
+
+p. Ferma restando la mia approvazione per questi due nobili scopi, si sbaglia il punto da cui iniziare. Il baronismo, ad esempio si replica esattamente allo stesso modo in politica: come mai, ad esempio, ci troviamo ad avere i politici più vecchi d'Europa? Perché in Spagna hanno Zapatero, negli Stati Uniti Obama e noi, a prescindere dal giudizio politico, abbiamo avuto Prodi prima e Berlusconi poi? 
+
+
+p. Analogamente, perché additare l'università come trionfo dello spreco quando il libro "La Casta":http://it.wikipedia.org/wiki/La_casta ha reso evidenti a tutti gli sprechi della politica italiana? Se il problema della crisi è di tutti, tutti dobbiamo dare il nostro contributo, politici inclusi.
+
+
+h3. Conclusioni
+
+
+p. Inganno, dolo e disinformazione la fanno da padroni. Tutti si permettono di dire tutto, l'importante è dire qualcosa e fare la propria bella figura in TV, lo strumento che santifica ogni baggianata. Dobbiamo scoprirle tutte e dobbiamo denunciarle, la Rete esiste per questo.
+
+
+p. Passiamo parola!!!

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Ciao, purtroppo
+tags: 
+- ciao
+
+---
+<pre style="font-style: italic; font-family: serif;">...A chi mai dentro di sè,il vuoto misurò...</pre>
