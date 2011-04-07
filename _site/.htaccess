@@ -1,6 +1,0 @@
-RewriteEngine on
-RewriteBase /
-RewriteRule ^articles/tag/(.+) tag/$1 [L,R=permanent]
-RewriteRule ^articles/(\d\d\d\d)/(\d\d)/(\d\d)/(.+) $1/$2/$3/$4.html [L,R=permanent]
-RewriteRule ^articles/category tags.html [L,R=permanent]
-RewriteRule ^xml/rss$ xml/rss20/feed.xml [R=permanent]
