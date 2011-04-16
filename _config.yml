@@ -1,7 +1,20 @@
 title: "Homo Digitalis"
 paginate: 10
 exclude:
-  - Rakefile
+- Rakefile
+
+default_description: "Blog di Domenico Delle Side. Domenico ama parlare di politica leccese, salentina e italiana; adora la cultura e cerca di guardare in modo critico alla realtà"
+default_keywords:
+- domenico delle side
+- italia dei valori lecce
+- politica lecce
+- politica salento
+- cultura lecce
+- cultura salento
+- bici lecce
+- bici salento
+- video costituzione
+  
 ftp_username: nico
 ftp_host: ftp.delleside.org
 ftp_dir: www/homodigitalis.delleside.org/

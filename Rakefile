@@ -12,13 +12,13 @@ task :cloud_basic do
   
   html = ''
   
-  site.tags.sort.each do |category, posts|
+  site.tags.each do |tag, posts|
     
     s = posts.count
     next if s < 2
     
     font_size = 10 + (s*2);
-    html << "<a href=\"/tag/#{category}/\" title=\"Pages tagged #{category}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\" rel=\"tag\">#{category}</a> "
+    html << "<a href=\"/tag/#{tag}/\" title=\"Post con tag #{tag}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\" rel=\"tag\">#{tag}</a> "
   end
   
   File.open('_includes/tags.html', 'w+') do |file|
@@ -44,7 +44,7 @@ task :cloud do
 ---
 layout: base
 title: Tags
-type: A tag cloud
+description: "Tutti i tag di Homo Digitalis, il blog di Domenico Delle Side"
 ---
 <div id="content">
 <div id="main">
@@ -55,15 +55,14 @@ type: A tag cloud
     <p>Click su un tag per vedere i post disponibili.</p>
     HTML
   
-  site.tags.sort.each do |category, posts|
-    next if category == ".net"
+  site.tags.each do |tag, posts|
+    next if tag == ".net"
     html << <<-HTML
       HTML
     
     s = posts.count
     font_size = 12 + (s*1.5);
-    #      html << "<a href=\"#{@@site_url}/tag/#{category}/\" title=\"Entries tagged #{category}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{category}</a> "
-    html << "<a href=\"/tag/#{category}/\" title=\"Entries tagged #{category}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{category}</a> "
+    html << "<a href=\"/tag/#{tag}/\" title=\"Post con tag #{tag}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{tag}</a> "
   end
 
   html << "</div>
@@ -88,7 +87,7 @@ task :tags => [:cloud_basic, :cloud] do
   options = Jekyll.configuration({})
   site = Jekyll::Site.new(options)
   site.read_posts('')
-  site.tags.sort.each do |tag, posts|
+  site.tags.each do |tag, posts|
     
     next if tag == ".net"
     html = ''
@@ -96,7 +95,7 @@ task :tags => [:cloud_basic, :cloud] do
 ---
 layout: base
 title: Post con tag "#{tag}"
-type: "#{tag.gsub(/\b\w/){$&.upcase}}"
+description: "Elenco di tutti i post con tag '#{tag}' presenti su Homo Digitalis, il blog di Domenico Delle Side"
 ---
 <div id="content">
 <div id="main">
@@ -109,7 +108,7 @@ HTML
     posts.each do |post|
       post_data = post.to_liquid
       html << <<-HTML
-        <li><a href="#{post.url}" rel="tag" title="Post con tag #{post_data['title']}">#{post_data['title']}</a></li>
+        <li><a href="#{post.url}" rel="tag" title="Leggi il post #{post_data['title']}">#{post_data['title']}</a></li>
       HTML
     end
     html << '</ul>'
