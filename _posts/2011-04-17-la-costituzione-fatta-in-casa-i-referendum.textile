@@ -1,6 +1,7 @@
 --- 
 layout: post
-title: "La costituzione fatta in casa: i referendum"
+title: "La Costituzione fatta in casa: i referendum"
+description: "Oggi parleremo dello strumento referendario e di come i Costituenti ne abbiano previsto l'uso"
 tags: 
 - costituzione
 - italia
