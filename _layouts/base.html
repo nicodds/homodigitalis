@@ -12,9 +12,9 @@
     <meta name="description" content="{{ page.description }}" />
     <meta name="keywords" content="{{ page.keywords }}" />
     <meta name="google-site-verification" content="BvkX7HMs0hk7hwWl07g5mE3cefbw82LGezd5ABZ9aio" />
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d658c707851fc44"></script> 
     <script src="http://www.google.com/jsapi" type="text/javascript"></script>
     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 
     <link href="http://homodigitalis.delleside.org/xml/rss" rel="alternate" title="RSS" type="application/rss+xml" />
     <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold" rel="stylesheet" type="text/css">
@@ -32,6 +32,18 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+    $(document).ready(function(){
+      $.getScript('http://s7.addthis.com/js/250/addthis_widget.js#async=1');
+
+      window.addthis_config = {
+        username: 'xa-4d658c707851fc44',
+        ui_language: 'it',
+        data_ga_property: 'UA-22659627-1',
+        data_track_clickback: true
+      };
+      addthis.init();
+    });
     </script>
   </head>
   <body>

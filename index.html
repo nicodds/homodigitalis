@@ -10,7 +10,20 @@ title: Homo Digitalis
   <div class="post">
     <h2 class="clear"> <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h2>
     <p class="auth">Domenico Delle Side,
-      <span title="{{ page.date | to_it_date }}" class="date">{{ page.date | to_it_date }}</span>
+      <span title="{{ page.date | to_it_date }}" class="date">{{ page.date | to_it_date }}
+      <!-- AddThis Button BEGIN --> 
+        <span class="addthis_toolbox addthis_default_style share_buttons"> 
+          <a class="addthis_button_twitter" addthis:url="http://homodigitalis.delleside.org{{page.url}}" addthis:title="{{page.title}}"></a> 
+          <a class="addthis_button_facebook" addthis:url="http://homodigitalis.delleside.org{{page.url}}" addthis:title="{{page.title}}"></a> 
+          <a class="addthis_button_google" addthis:url="http://homodigitalis.delleside.org{{page.url}}" addthis:title="{{page.title}}"></a> 
+          <a class="addthis_button_email" addthis:url="http://homodigitalis.delleside.org{{page.url}}" addthis:title="{{page.title}}"></a>
+          <span class="addthis_separator">|</span> 
+          <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d658c707851fc44"
+             class="addthis_button_compact" addthis:url="http://homodigitalis.delleside.org{{page.url}}"
+             addthis:title="{{page.title}}">Condividi</a> 
+        </span>
+    <!-- AddThis Button END --> 
+    </span>
     </p> 
     {{ page.content }}
     

@@ -234,6 +234,11 @@ h4.blueblk {
              border: 1px solid #1b619b;
              }
 
+.share_buttons
+{
+  float: right;
+  padding-top: 2px;
+}
 /*+-------------------------------------------+
    SIDEBAR 				      |
 */

@@ -8,7 +8,18 @@ layout: base
     <h2>{{ page.title }}</h2>
     
     <p class="auth"> Domenico Delle Side,
-      <span class="date" title="{{ page.date | to_it_date }}">{{ page.date | to_it_date }}</span>
+      <span class="date" title="{{ page.date | to_it_date }}">{{ page.date | to_it_date }}
+      <!-- AddThis Button BEGIN --> 
+        <span class="addthis_toolbox addthis_default_style share_buttons"> 
+          <a class="addthis_button_twitter"></a> 
+          <a class="addthis_button_facebook"></a> 
+          <a class="addthis_button_google"></a> 
+          <a class="addthis_button_email"></a>
+          <span class="addthis_separator">|</span> 
+          <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d658c707851fc44" class="addthis_button_compact">Condividi</a> 
+        </span>
+    <!-- AddThis Button END --> 
+       </span>
     </p> 
     
      {{ content }}
