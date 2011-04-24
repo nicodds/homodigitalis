@@ -51,7 +51,8 @@ module Jekyll
       @dir = tag
       @tag = tag
       self.ext = '.html'
-      self.basename = 'index'
+      @name = 'index' + self.ext
+      self.basename = @name
       self.content = <<-EOS
 
 
@@ -91,7 +92,7 @@ EOS
     end
 
     def url
-      File.join("/tag", @dir, "index.html")
+      File.join("/tag", @dir, @name)
     end
 
     def to_liquid
@@ -109,6 +110,10 @@ EOS
       File.open(path, 'w') do |f|
         f.write(self.output)
       end
+    end
+
+    def pager
+      true
     end
 
     def html?
