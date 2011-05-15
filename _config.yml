@@ -18,4 +18,4 @@ default_keywords:
 ftp_username: nico
 ftp_host: ftp.delleside.org
 ftp_dir: www/homodigitalis.delleside.org/
-db_file: ".files.yml"
+

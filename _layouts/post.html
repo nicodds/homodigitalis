@@ -11,8 +11,8 @@ layout: base
       <span class="date" title="{{ page.date | to_it_date }}">{{ page.date | to_it_date }}
       <!-- AddThis Button BEGIN --> 
         <span class="addthis_toolbox addthis_default_style share_buttons"> 
-          <a class="addthis_button_twitter"></a> 
-          <a class="addthis_button_facebook"></a> 
+          <a class="addthis_button_tweet"></a> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> 
           <a class="addthis_button_google"></a> 
           <a class="addthis_button_email"></a>
           <span class="addthis_separator">|</span> 
@@ -24,8 +24,8 @@ layout: base
     
      {{ content }}
 
-    <p class="meta">Pubblicato in: {{page.tags | to_tag_string }}</p>
-    
+    <p class="meta">Potrebbero interessare anche i post in: {{page.tags | to_tag_string }}</p>
+
     {% include comments.html %}
   </div>
 </div>
