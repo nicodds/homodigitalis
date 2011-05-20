@@ -3,6 +3,7 @@ layout: post
 title: "Rigurgiti di fascismo"
 date: 2011-05-14 16:52:25
 description: "Lo scandalo di Faccetta Nera fa venire a galla uno degli aspetti più sordidi della società italiana, ovvero il fatto che alla fine ci facciamo andare bene tutto, tutto diventa normalità."
+image: "http://farm5.static.flickr.com/4028/4283431179_556bc13eec.jpg"
 tags:
 - italia
 - lecce

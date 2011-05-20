@@ -35,6 +35,10 @@ module Jekyll
         to_merge['description'] = @site.config['default_description']
       end
 
+      unless self.data.has_key?('image')
+        to_merge['image'] = 'http://homodigitalis.delleside.org/images/favicon.png'
+      end
+
       self.data.deep_merge(to_merge)
     end
   end
@@ -58,6 +62,10 @@ module Jekyll
 
       unless self.data.has_key?('description')
         to_merge['description'] = @site.config['default_description']
+      end
+
+      unless self.data.has_key?('image')
+        to_merge['image'] = 'http://homodigitalis.delleside.org/images/favicon.png'
       end
 
       self.data.deep_merge(to_merge)

@@ -3,6 +3,7 @@ layout: post
 date: 2011-05-04 01:53:47
 title: "Decalogo dell'elettore"
 description: "Come non scegliere il proprio candidato, ovvero le mie istruzioni per un voto catastrofico"
+image: "http://farm4.static.flickr.com/3379/3564365301_f90cd3787f.jpg"
 tags:
 - elezioni
 - voto

@@ -2,6 +2,7 @@
 title: "Contorni e minestre riscaldate"
 layout: post
 description: "Le prossime elezioni, anche se riguardano un contesto prettamente locale, ripropongono delle consuetudini nazionali e propongono interrogativi per il futuro del governo, anche da parte di alleati"
+image: "http://farm4.static.flickr.com/3128/2401071702_7b52ed7e21.jpg"
 tags:
 - politica
 - lega

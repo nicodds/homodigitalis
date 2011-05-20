@@ -3,9 +3,11 @@ layout: post
 title: "Scomparire da Palazzo Carafa 2.0"
 date: 2011-05-01 23:12:38
 description: "20Centesimi vola sul web, così ecco i miei '2 centesimi' per la redazione, affinché il giornale continui con il suo stile di fare informazione"
+image: "http://homodigitalis.delleside.org/files/20centesimi.jpg"
 tags:
 - lecce
 - 20centesimi
+- paolo perrone
 ---
 !/files/20centesimi.jpg!
 

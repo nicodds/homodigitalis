@@ -9,12 +9,12 @@ layout: base
     
     <p class="auth"> Domenico Delle Side,
       <span class="date" title="{{ page.date | to_it_date }}">{{ page.date | to_it_date }}
-      <!-- AddThis Button BEGIN --> 
-        <span class="addthis_toolbox addthis_default_style share_buttons"> 
-          <a class="addthis_button_tweet"></a> 
-          <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> 
-          <a class="addthis_button_google"></a> 
-          <a class="addthis_button_email"></a>
+    <!-- AddThis Button BEGIN --> 
+        <span class="addthis_toolbox addthis_default_style share_buttons">
+          <a class="addthis_button_facebook_like" addthis:url="http://homodigitalis.delleside.org{{page.url}}"></a>
+          <a class="addthis_button_tweet" tw:via="nicodelleside" addthis:url="http://homodigitalis.delleside.org{{page.url}}"></a> 
+          <a class="addthis_button_google" addthis:url="http://homodigitalis.delleside.org{{page.url}}"></a> 
+          <a class="addthis_button_email" addthis:url="http://homodigitalis.delleside.org{{page.url}}"></a>
           <span class="addthis_separator">|</span> 
           <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d658c707851fc44" class="addthis_button_compact">Condividi</a> 
         </span>
@@ -25,8 +25,27 @@ layout: base
      {{ content }}
 
     <p class="meta">Potrebbero interessare anche i post in: {{page.tags | to_tag_string }}</p>
+    <div id="fb-root"></div>
+    <script>
+    window.fbAsyncInit = function() {
+        FB.init({appId: '124119487667095', status: true, cookie: true,
+                 xfbml: true});
+    };
+      (function() {
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.src = document.location.protocol +
+          '//connect.facebook.net/it_IT/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());    
+    </script>
 
-    {% include comments.html %}
+
+    <p style="text-align: center">
+      <a name="comments"></a>
+      <fb:comments href="http://homodigitalis.delleside.org{{ page.url }}" colorscheme="light"></fb:comments>
+    </p>
   </div>
 </div>
 <!-- end post -->
